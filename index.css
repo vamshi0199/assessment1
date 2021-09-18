@@ -1,0 +1,47 @@
+.vam1{
+    color: red;
+}
+.vam2
+{ 
+    color:orange; font-style: italic;
+}
+.vam3
+{
+    color: brown;
+}
+.vam5
+{
+    font-weight: bold;
+    text-decoration: line-through;
+    color: brown;
+}
+.vam6{
+   background-color: yellow;
+}
+.vam4{
+    font-weight: bold;
+    color:orangered;
+}
+.vam7 
+{
+    text-decoration: underline;
+    font-style: italic;
+}
+.vam8
+{
+    color: brown;
+    letter-spacing: 3px;
+}
+.vam10{
+    background-color: yellow;
+    font-weight: bold;
+}
+.vam11{
+    color: brown;
+}
+.vam12{
+    color: brown;
+}
+.vam13{
+    color: brown;
+}
